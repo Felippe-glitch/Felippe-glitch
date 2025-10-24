@@ -17,5 +17,6 @@
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div><br/>
 
-### 🧠 Linguagens mais usadas
+## Linguagens mais usadas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-glitch&layout=compact&theme=radical)
