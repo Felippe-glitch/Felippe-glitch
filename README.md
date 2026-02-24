@@ -2,8 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-stein-9946a433a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felippe.stein/)
 
-![Felippe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felippe-glitch&show_icons=true&theme=radical)
-
 ## Tecnologias
 
 <div style="display: inline-block;"><br/>
@@ -19,7 +17,3 @@
   <img align="center" alt="Azure" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
   <img align="center" alt="Python" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
 </div><br/>
-
-## Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-glitch&layout=compact&theme=radical)
