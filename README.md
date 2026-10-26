@@ -24,11 +24,3 @@
   <img src="https://streak-stats.demolab.com/?user=Felippe-glitch&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-## GitHub Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/github-snake-dark.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/github-snake.svg"/>
-  </picture>
-</p>
