@@ -1,8 +1,8 @@
-<h1 align="center">Oi! Eu sou o Felippe Stein 👋</h1>
+<h1 align="center">Hi! I'm Felippe Stein 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web · .NET (C#) & Angular</b><br/>
-  Microsserviços, serviços assíncronos e mensageria · Pesquisa em IA aplicada à saúde
+  <b>Web Developer · .NET (C#) & Angular</b><br/>
+  Microservices, asynchronous services and messaging 
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
   <a href="https://www.instagram.com/felippe.stein/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## Stack principal
+## Main stack
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,redis,docker,git" alt="C#, .NET, Angular, TypeScript, PostgreSQL, Redis, Docker, Git"/>
 
-## Também trabalho com
+## Also work with
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,java,spring,py" alt="Node.js, React, Java, Spring, Python"/>
