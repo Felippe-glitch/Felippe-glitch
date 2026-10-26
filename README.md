@@ -28,7 +28,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/dist/github-snake-dark.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/dist/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/github-snake-dark.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Felippe-glitch/Felippe-glitch/output/github-snake.svg"/>
   </picture>
 </p>
