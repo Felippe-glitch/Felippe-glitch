@@ -17,3 +17,9 @@
 ## Also work with
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,java,spring,py" alt="Node.js, React, Java, Spring, Python"/>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Felippe-glitch&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
